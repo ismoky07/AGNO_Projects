@@ -1,5 +1,7 @@
 3 projets Agno utilisant les différents modes collaborate, route et coordinate
-#1. Tech Sector Multi-Stock Analysis System 📊🚀
+
+**1. Tech Sector Multi-Stock Analysis System 📊🚀**
+
 Système d'analyse collaborative multi-agents pour analyser les principales actions technologiques (AAPL, MSFT, GOOGL, AMZN, TSLA, META, NVDA) et générer des recommandations de portefeuille d'investissement.
 🎯 Vue d'ensemble
 Ce système utilise 3 agents spécialisés en mode collaboration pour analyser l'ensemble du secteur technologique :
@@ -35,7 +37,8 @@ Outils : Aucun (analyse pure)
 Focus : Recommandations de portefeuille et allocation
 
 
-2. Tech Products Router System 🔀📱💻
+**2. Tech Products Router System 🔀📱💻**
+
 Système de routage intelligent multi-agents pour analyser tous les produits tech majeurs ! Route automatiquement les questions vers l'expert approprié selon le type de requête.
 🎯 Vision du Système
 Couverture Complète Tech : 10 entreprises technologiques majeures
@@ -66,7 +69,8 @@ Outils : DuckDuckGo + YFinanceTools
 Couverture : Trends industrie, compétition, stratégie
 
 
-3. Stock Market News Analysis System 📊
+**3. Stock Market News Analysis System 📊**
+
 Un système d'analyse multi-agents utilisant l'IA pour collecter, analyser et générer des rapports sur les actualités boursières des grandes entreprises technologiques.
 🎯 Fonctionnalités
 
